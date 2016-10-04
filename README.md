@@ -34,6 +34,8 @@
 
 ### Usage
 
+test
+
 1. Run `npm start`
 2. Checkout console output to see where local server is started. You can use all [links](#links) (except `preview`) by replacing https://andrewjtech123.github.io/rebilly-insta/ with url from the message: `Server started <url>`
 3. Make changes using your favorite editor or `swagger-editor` (look for URL in console output)
